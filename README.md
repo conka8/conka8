@@ -1,12 +1,3 @@
-<div style="display: flex">
-<h1>My preferred languages</h1>
-<div>
-<img width="30px" src="./img/c++.png" />
-<img width="30px" src="./img/rust.png" />
-<img width="30px" src="./img/python.png" />
-</div>
-</div>
-
 # GitHub Status ![](https://komarev.com/ghpvc/?username=conka8&color=blueviolet)
 
 <div align="center">
